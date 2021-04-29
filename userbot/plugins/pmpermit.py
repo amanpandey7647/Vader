@@ -24,6 +24,8 @@ HELLPIC = (
 )
 PM_WARNS = {}
 PREV_REPLY_MESSAGE = {}
+KRAKEN =
+
 myid = bot.uid
 KRAKEN = (
     str(CUSTOM_PMPERMIT)
